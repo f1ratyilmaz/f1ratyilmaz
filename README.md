@@ -1,0 +1,9 @@
+- Merhaba ben Fırat Yılmaz...
+- şu anda Python,MySQL,veritabanı,web tasarım,temel programlama dillerini öğreniyorum...
+- 🌱 I’m currently learning ...
+- İletişime geçmek için yilmazfirat@890icloud.com
+
+<!---
+f1ratyilmaz/f1ratyilmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
